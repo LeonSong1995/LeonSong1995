@@ -9,6 +9,3 @@
   + Single-Cell and Spatial Gen(O)mics
   + High-performance bioinformatic tools development
 
-![LeonSong1995's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonSong1995&include_all_commits=true&theme=tokyonight&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonSong1995&layout=compact&theme=swift)
